@@ -1,0 +1,11 @@
+{
+  "name": "reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/reproduction.common.js",
+  "scripts": {
+    "build": "vue-cli-service build --target lib ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
